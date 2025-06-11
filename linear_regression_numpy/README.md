@@ -10,3 +10,8 @@ This project demonstrates how to build and evaluate a Linear Regression model us
 - Pure NumPy implementation
 
 ## 📁 Folder Structure
+linear_regression_numpy/
+├── data/housing.csv
+├── notebook/linear_regression_numpy.ipynb
+├── requirements.txt
+└── README.md
